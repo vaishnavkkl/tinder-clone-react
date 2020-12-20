@@ -1,0 +1,41 @@
+.swipe-button{
+	position: fixed;
+	display: flex;
+	width:90%;
+	justify-content: space-evenly;
+	bottom: 30px;
+	text-align: center;
+	margin: 20px;
+	align-items: center;
+}
+
+.swipe-repeat{
+	background-color: white;
+	box-shadow: 5px 5px 5px grey;
+	color: yellow !important;
+}
+.swipe-left{
+	background-color: white;
+	box-shadow: 5px 5px 5px 5px grey;
+	color: red !important;
+}
+
+.swipe-star{
+	background-color: white;
+	box-shadow: 5px 5px 5px grey;
+	color: blue !important;
+}
+
+.swipe-right{
+	background-color: white;
+	box-shadow: 5px 5px 5px 5px grey;
+	color: green !important;
+}
+
+.swipe-lightning{
+	background-color: white;
+	box-shadow: 5px 5px 5px grey;
+	color: brown !important;
+}
+
+

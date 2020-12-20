@@ -1,0 +1,12 @@
+.tinder-logo{
+	object-fit: contain;
+	height: 90px;
+	
+}
+.header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;  /*make equal spacing in the horizontal*/ 
+	padding:20px;
+}
+
